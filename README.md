@@ -8,4 +8,4 @@ js로 ToDo 앱 만들기
 
 완성한 과제 형상
 
-<img width="786" alt="image" src="https://github.com/ByeongJun-Jang/ToDo_Assignment/assets/85213981/f7cfb75a-3d37-4ee3-b57d-c562dd99c18a">
+![2024-02-192 15 05-ezgif com-video-to-gif-converter](https://github.com/ByeongJun-Jang/ToDo_Assignment/assets/85213981/a3fe4b9a-c9fb-443a-b39f-d9943ec45df2)
